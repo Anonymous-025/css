@@ -31,7 +31,7 @@ img {
 .grid-container {
   max-width: 1200px;
   display: grid;
-  grid-template-columns: repeat(1fr, 3);
+  grid-template-columns: repeat(3, 1fr);
   gap: 60px;
 }
 
@@ -48,4 +48,22 @@ img {
 article p,
 article h3 {
   margin: 20px 10px;
+}
+
+@media screen and (max-width: 980px) {
+  article {
+    grid-column: span 3;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  article,
+  .featured {
+    display: block;
+    margin: 0 20px;
+  }
 }
