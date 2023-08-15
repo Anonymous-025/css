@@ -8,3 +8,4 @@ Course Link : [Build Layouts with CSS Grid](https://youtube.com/playlist?list=PL
 2. [project002](./TheNetNinja_CSS_Grids/project002 'Goto project002 Directory') : [Holy Grail Layout](https://youtu.be/cJvMbQq0MIQ/ 'Youtube link')
 3. [project003](./TheNetNinja_CSS_Grids/project003 'Goto project003 Directory') : [Masonry Style Layout](https://youtu.be/OF7jjbgw0H0/ 'Youtube link')
 4. [project004](./TheNetNinja_CSS_Grids/project004 'Goto project004 Directory') : [Portfolio](https://youtu.be/urRKVhRTflM?si=5pBLLiE_WuACvvNF/ 'Youtube link')
+5. [project005](./TheNetNinja_CSS_Grids/project005 'Goto project005 Directory') : [12 Column Grid](https://youtu.be/-IAypuhKgJs?si=P_0GdsmX9fVP98IX/ 'Youtube link')
